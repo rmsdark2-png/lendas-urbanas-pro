@@ -1,0 +1,25 @@
+{
+  "1": {
+    "titulo": "O Mistério da Lagoa dos Patos em Garça",
+    "cenas": [
+      {
+        "id": 1,
+        "narracao": "Nas cercanias rurais de Garça, uma lagoa aparentemente tranquila esconde uma profundidade assustadora.",
+        "prompt_ia": "dark rural lake at night, eerie calm water, foggy atmosphere, cinematic horror, moody lighting",
+        "legenda": "Lagoa misteriosa nas cercanias rurais de Garça."
+      },
+      {
+        "id": 2,
+        "narracao": "Moradores locais contam que as águas escuras já puxaram animais de grande porte e banhistas descuidados.",
+        "prompt_ia": "dark murky water swirling, sinister supernatural depths, horror cinematic style, dark teal tones",
+        "legenda": "Águas escuras que puxam banhistas descuidados."
+      },
+      {
+        "id": 3,
+        "narracao": "Uma serpente aquática colossal, de escamas brilhantes e olhos flamejantes, patrulha o fundo lodoso.",
+        "prompt_ia": "massive giant water serpent underwater, glowing scales, glowing fiery eyes, terrifying monster, horror art",
+        "legenda": "Serpente aquática colossal no fundo lodoso."
+      }
+    ]
+  }
+}
